@@ -101,5 +101,5 @@ def start():
     startup()
     
 if __name__ == '__main__':          # 현재 파일 실행시 개발용 웹서버 구동
-    app.run(debug=True, port=8083, host='172.30.1.54')
+    app.run(debug=True, port=8083, host='119.198.9.230')
 
